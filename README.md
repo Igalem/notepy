@@ -1,5 +1,6 @@
-# NotePy 
-NOTES web application based on Pyscript
+# NotePy 📍
+NOTES web application based on Pyscript, Html & CSS.
+<br>
 
 <div align="center" width="100%">
   <img src="static/github/fullSite.jpg" height="500">
@@ -9,28 +10,15 @@ NOTES web application based on Pyscript
 
 
 # What is NotePY ?
-Streamlit applications project
+NotePy is a Notes web application based on pyscript, html & css.
 
-Dynamic CSV -> Snowflake loader applicattion
+✅ Taking notes is now fastes then ever! :) 
 
-- Dynamicly create / replace target tables names and structure for your content
-- [Insert] or [Truncate & insert] actions to manage your data
-- Snowflake connection testing & Error handling
-- 200Mb limitation for supporting your source file
+✅ Just "Copy & Paste" any text (Simple text / URL / Image URL / Other) and you are ready to go!
 
-## Getting started
+✅ Editable notes body / URLs / Descriptions and more
 
-**Open an Linux terminal and run locally instance type shell script:**
+✅ Colorful Notes according the type on your note [standard / URL / Image]
 
-```sh
-# How to run CSV loader app:
-cd app
-streamlit run main.py
-
-```
-
-Congratulations!! 👏🏼 You just ran the CSV loader application!! 🎉
-
-Check out the terminal log ``output`` while running the app.
 
 # Enjoy! 
