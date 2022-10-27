@@ -2,7 +2,7 @@
 NOTES web application based on Pyscript, Html & CSS.
 <br>
 
-<a href="https://igalem.github.io/notepy">Visit NotePy here!</a>
+<a href="https://igalem.github.io/notepy" target="_blank">Visit NotePy here!</a>
 
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=is%20Down%21&style=for-the-badge&up_color=green&up_message=is%20UP%21&url=https%3A%2F%2Figalem.github.io%2Fnotepy%2F">
 
